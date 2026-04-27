@@ -39,6 +39,46 @@ Data Visualization
 Debugging
 Git & GitHub
 ```
+---
+
+# ✨ Concepts Mastered Through Each Project
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 💰 Personal Budget Tracker
+- Working with CSV files for storing and retrieving data  
+- Writing reusable functions for income/expense tracking  
+- Performing calculations on financial data  
+- Creating visualizations for spending analysis  
+- Strengthening debugging and logical thinking  
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🎓 Student Grade Analyzer
+- Using NumPy arrays for numerical operations  
+- Applying loops and conditional statements for grading logic  
+- Calculating averages and performance metrics  
+- Handling user input efficiently  
+- Visualizing student performance trends  
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🛒 Supermarket Sales Report
+- Cleaning real-world datasets using Pandas  
+- Performing exploratory data analysis (EDA)  
+- Using GroupBy and aggregations for business insights  
+- Identifying sales trends and customer behavior patterns  
+- Building data visualizations with Matplotlib and Seaborn  
+
+</td>
+</tr>
+</table>
 
 ---
 
