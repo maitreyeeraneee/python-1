@@ -12,23 +12,27 @@
 
 ---
 
-## 📌 Projects
+## Projects
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| Budget Tracker | Tracks income, expenses, balance & spending trends | Python, CSV, Pandas, Matplotlib |
+| Project | Tech |What It Does | Key Skills Learned |
+|----------|-------------|------|-------------|
+| **Personal Budget Tracker** | Python, CSV, Pandas, Matplotlib | Tracks income, expenses, remaining balance, and spending trends | File Handling, CSV Operations, Functions, Pandas, Data Visualization, Debugging |
+| **Student Grade Analyzer** | Python, NumPy, Matplotlib | Takes student names + marks as input, calculates performance metrics and visualizes results | NumPy Arrays, Functions, Loops, Conditional Statements, Statistics, Matplotlib |
 
 ---
 
-## 🛠 Skills Practiced
+## Skills Practiced
 
 ```python
-File Handling
 Functions
-Debugging
-Data Structures
+Loops
+Conditional Statements
+File Handling
 CSV Operations
+NumPy Arrays
+Data Analysis
 Data Visualization
+Debugging
 Git & GitHub
 ```
 
@@ -41,15 +45,17 @@ python-1/
 │
 ├── personal-budget-tracker/
 │
+├── student-grade-analyzer/
+│
 └── README.md
 ```
 
 ---
 
-##  Goal
+## 🎯 Goal
 
-Building strong Python fundamentals before transitioning into Data Science & Machine Learning projects.
+Building strong Python fundamentals before transitioning into Data Science, Machine Learning, and internship-level projects.
 
 ---
 
-⭐ more projects otw.
+⭐ 1 project OTW
